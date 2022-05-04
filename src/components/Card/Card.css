@@ -1,0 +1,47 @@
+.card {
+  background-color: white;
+  border-radius: 0.2rem;
+  box-shadow: 2px 2px 2px
+    hsl(var(--color-h), var(--color-s), calc(var(--color-l) * 2));
+  display: flex;
+  gap: 1rem;
+  justify-content: space-around;
+  padding: 1.5rem;
+  width: 25rem;
+  height: 16rem;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: var(--button-color);
+  border-radius: 0.3rem;
+  border-style: none;
+  color: hsl(0, 100%, 100%);
+  font-size: 1rem;
+  padding: 0.5rem;
+  text-decoration: none;
+}
+
+.card-image {
+  display: flex;
+  align-items: center;
+  width: min-content;
+  max-height: min-content;
+}
+
+h2 {
+  color: hsl(var(--color-h), var(--color-s), calc(var(--color-l)));
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+p {
+  color: hsl(var(--color-h), var(--color-s), calc(var(--color-l) * 1));
+  font-size: 0.75rem;
+  line-height: 1.5;
+}

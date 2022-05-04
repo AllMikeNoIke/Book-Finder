@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git@github.com:AllMikeNoIke/Book-Finder/static/css/main.ff9eb2bd.css",
+    "main.js": "/git@github.com:AllMikeNoIke/Book-Finder/static/js/main.f9a261a5.js",
+    "index.html": "/git@github.com:AllMikeNoIke/Book-Finder/index.html",
+    "main.ff9eb2bd.css.map": "/git@github.com:AllMikeNoIke/Book-Finder/static/css/main.ff9eb2bd.css.map",
+    "main.f9a261a5.js.map": "/git@github.com:AllMikeNoIke/Book-Finder/static/js/main.f9a261a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9eb2bd.css",
+    "static/js/main.f9a261a5.js"
+  ]
+}
